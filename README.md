@@ -1,4 +1,6 @@
 # ishanmeal
+### `npm i`
+Installs all prerequisites libraries for running the build.
 ### `npm start`
 
 Runs the app in the development mode.\
